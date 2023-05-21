@@ -1,2 +1,2 @@
 # Heart-disease-prediction
-Heart diesease prediction based on UCI dataset.
+Heart diesease prediction with scikit-learn based on UCI dataset.
